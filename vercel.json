@@ -24,10 +24,6 @@
     ],
     "rewrites": [
         {
-            "source": "/api/(.*)",
-            "destination": "https://wallet.domain-saya.my.id/api/$1"
-        },
-        {
             "source": "/(.*)",
             "destination": "/index.html"
         }
