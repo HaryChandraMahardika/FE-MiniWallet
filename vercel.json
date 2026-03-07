@@ -23,6 +23,10 @@
         }
     ],
     "rewrites": [
+         {
+      "source": "/api/:path*",
+      "destination": "https://wallet.domain-saya.my.id/api/:path*"
+    },
         {
             "source": "/(.*)",
             "destination": "/index.html"
