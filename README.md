@@ -28,6 +28,21 @@ This is the frontend for the Mini Wallet application, built with React 19 and Vi
 - NPM or Yarn
 - Backend API running (see [BE/mini-wallet/README.md](../BE/mini-wallet/README.md))
 
+## 🔑 Demo Login Accounts
+
+Use the following account for testing:
+
+### 👤 User 1
+
+Email: `user1@mail.com`
+Password: `password123`
+
+### 👤 User 2
+
+Email: `user2@mail.com`
+Password: `password123`
+
+
 ## Installation
 
 1.  **Navigate to the frontend directory**:
